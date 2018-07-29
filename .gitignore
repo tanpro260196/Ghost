@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/Ghost/v15
+/.vs/GhostPlugin/DesignTimeBuild
+/GhostPlugin/obj/Release
+*.lock
